@@ -34,7 +34,7 @@ This repository contains the public build of **Yolker Run 3D** created in Unity.
 ## How to Run the Game Locally
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/yolker-run-3d.git
+   git clone https://github.com/andreybo/match3-runner-unity-game
    ```
 2. Open the project in Unity.
 3. Build and run the game on your preferred platform.
