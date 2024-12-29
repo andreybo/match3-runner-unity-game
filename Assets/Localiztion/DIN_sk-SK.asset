@@ -1,0 +1,325 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: DIN_sk-SK
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: sk-SK
+  m_SharedData: {fileID: 11400000, guid: 69daa94877ad0a243959a8dcea82e8bf, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 66446553088
+    m_Localized: "Hra\u0165"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5243643752448
+    m_Localized: "Najlep\u0161ie Sk\xF3re"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5456777310208
+    m_Localized: "\u010Ealej"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5675153747968
+    m_Localized: "V\xFDchod"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5990796095488
+    m_Localized: "Re\u0161tart"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6111256506368
+    m_Localized: "Tvoje Sk\xF3re"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6280656056320
+    m_Localized: "Odstr\xE1ni\u0165 Reklamy"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6699302121472
+    m_Localized: Vibrovanie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7989621026816
+    m_Localized: "Znie\u0165"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12358894612480
+    m_Localized: "Sk\xFA\u0161ka"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1928161540550656
+    m_Localized: "Dotknite Sa, Aby Ste Sa Presunuli Do\u013Eava"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1928682653462528
+    m_Localized: Dotknite Sa, Aby Ste Sa Presunuli Doprava
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2061689257021440
+    m_Localized: Potiahnite Dolu, Aby Ste Vytvorili Kombo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2070440231915520
+    m_Localized: "Pok\xFAste Sa Dlh\xFD Pohyb V\u013Eavo/Vpravo"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2070713792811008
+    m_Localized: "Pravidl\xE1:"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2070764803936256
+    m_Localized: Zdravie +1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2071778277806080
+    m_Localized: "Zmeni\u0165 Farbu"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2072083954487296
+    m_Localized: "Bezfarebn\xFD"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2072221225668608
+    m_Localized: "Berie \u017Divot"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2072358958223360
+    m_Localized: "\u010Cas"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2072563325685760
+    m_Localized: Exploduje Bloky
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2072721782296576
+    m_Localized: Kvapka Farby
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2075683694923776
+    m_Localized: "Zmeni\u0165 Farbu Din"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3646375032139776
+    m_Localized: "Pomal\xE1 R\xFDchlos\u0165"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4596936447934464
+    m_Localized: "Obnovi\u0165 N\xE1kup"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6076718780469248
+    m_Localized: "Zni\u010Di\u0165 Bloky Rovnakej Farby Ako Din A Sk\xF3re \u010Co
+      Najviac Bodov"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6573495991791616
+    m_Localized: "Posla\u0165 Sp\xE4tn\xFA V\xE4zbu"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6791873830449152
+    m_Localized: "Vychutnajte Si Hru Bez Videonahr\xE1vky"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6791965593432064
+    m_Localized: "Odstr\xE1\u0148te Reklamu"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10992588826578944
+    m_Localized: Zdravie -1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10993056747327488
+    m_Localized: " +30 Sek\xFAnd"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11017009276620800
+    m_Localized: Combo!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15074895160643584
+    m_Localized: Zadajte Text ...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15075104934563840
+    m_Localized: "Ako Sa Vol\xE1\u0161?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15075387009896448
+    m_Localized: "Ulo\u017Ei\u0165"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15076744953565184
+    m_Localized: "Rebr\xED\u010Dka"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16153803732938752
+    m_Localized: "\u010Co Je Nov\xE9?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16153901770600448
+    m_Localized: "M\xE1m To!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16154408123756544
+    m_Localized: "Vysok\xE1 R\xFDchlos\u0165"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16160561524240384
+    m_Localized: "\u010Co Je Nov\xE9: - Hrajte Zadarmo!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17652141678522368
+    m_Localized: "Na\u010D\xEDtava"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18001279381442560
+    m_Localized: "Klepnite Do\u013Eava/Doprava"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18001405437054976
+    m_Localized: "Prejdite Do\u013Eava/Doprava"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18001543450628096
+    m_Localized: Potiahnite Prstom Smerom Nadol
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18001599893377024
+    m_Localized: Potiahnite Hore
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18001911752462336
+    m_Localized: Skok
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21536388847419392
+    m_Localized: "V\xFDziev"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21536454513442816
+    m_Localized: "U\u017E \u010Coskoro"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24186485939384320
+    m_Localized: "Otvoren\xE9"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24199001557970944
+    m_Localized: Robot (Hra Hry)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24199098840657920
+    m_Localized: "Z\xEDskajte Origin\xE1lnu Hru"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31299372835008512
+    m_Localized: "N\xE1zov"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31407324824727552
+    m_Localized: "V\xFDsledky Otvorenej Prehliadky \u010C. 1"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31630664042672128
+    m_Localized: "R\xFDchlos\u0165"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31637186307026944
+    m_Localized: "Nov\xFD Vstup"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31640464067522560
+    m_Localized: "Neutr\xE1lny Hrot"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44101391639506944
+    m_Localized: Autokombo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 80007104035155968
+    m_Localized: Znak
+    m_Metadata:
+      m_Items: []
+  - m_Id: 80007851468517376
+    m_Localized: "Zvoli\u0165 Si"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 80007914710233088
+    m_Localized: "\u041E\u0442\u043A\u0440\u044B\u0442\u044C"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 80361368372768768
+    m_Localized: "Kliknut\xEDm V\xE1s Prid\xE1te Do Zoznamu \u010Cakate\u013Eov A
+      Z\xEDskajte Prv\xFA Uk\xE1\u017Eku"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 82402546429587456
+    m_Localized: Krok Za Krokom
+    m_Metadata:
+      m_Items: []
+  - m_Id: 82402832166547456
+    m_Localized: "Nekone\u010Dn\xFD Be\u017Eec"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 82501065983258624
+    m_Localized: "Dobr\xE1 Pr\xE1ca!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 82501160480927744
+    m_Localized: "Zv\xFD\u0161i\u0165 \xDArove\u0148"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 82516973887811584
+    m_Localized: "Cukr\xEDk"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 262284395443007488
+    m_Localized: "Nov\xE1 Hra"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 262284577589047296
+    m_Localized: "\u010Eal\u0161\xED Level"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 262300822245879808
+    m_Localized: Vyrovnanie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 265924321044738048
+    m_Localized: "Cho\u010F!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 267375156786245632
+    m_Localized: "Za\u010Da\u0165 Hru"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 267380668470800384
+    m_Localized: "\u010C\xEDtaj Viac"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 267381676764704768
+    m_Localized: "Stiahnu\u0165 \u25BC"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 268077529875755008
+    m_Localized: "Zatvoren\xE9"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 270625134003208192
+    m_Localized: "Presko\u010Denie"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

@@ -1,0 +1,326 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: DIN_sv-SE
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: sv-SE
+  m_SharedData: {fileID: 11400000, guid: 69daa94877ad0a243959a8dcea82e8bf, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 66446553088
+    m_Localized: Spela
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5243643752448
+    m_Localized: "B\xE4sta Po\xE4ng"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5456777310208
+    m_Localized: "Forts\xE4tta"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5675153747968
+    m_Localized: "Utg\xE5ng"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5990796095488
+    m_Localized: Omstart
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6111256506368
+    m_Localized: "Din Po\xE4ng"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6280656056320
+    m_Localized: Ta Bort Annonser
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6699302121472
+    m_Localized: Vibration
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7989621026816
+    m_Localized: Ljud
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12358894612480
+    m_Localized: Testa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1928161540550656
+    m_Localized: "Touch F\xF6r Att Flytta Till V\xE4nster"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1928682653462528
+    m_Localized: "Touch F\xF6r Att Flytta Till H\xF6ger"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2061689257021440
+    m_Localized: "Dra Ner F\xF6r Att G\xF6ra Combo"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2070440231915520
+    m_Localized: "F\xF6rs\xF6k Att Svepa \xC5t V\xE4nster/H\xF6ger F\xF6r L\xE5ng
+      R\xF6relse"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2070713792811008
+    m_Localized: 'Regler:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2070764803936256
+    m_Localized: "H\xE4lsa +1"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2071778277806080
+    m_Localized: "\xC4ndra F\xE4rg"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2072083954487296
+    m_Localized: "F\xE4rgl\xF6s"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2072221225668608
+    m_Localized: Tar Liv
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2072358958223360
+    m_Localized: Tid
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2072563325685760
+    m_Localized: Exploderar Block
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2072721782296576
+    m_Localized: Droppe
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2075683694923776
+    m_Localized: "\xC4ndra Din F\xE4rg"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3646375032139776
+    m_Localized: "L\xE5g Hastighet"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4596936447934464
+    m_Localized: "\xC5terst\xE4lla Ink\xF6p"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6076718780469248
+    m_Localized: "F\xF6rst\xF6r Block Av Samma F\xE4rg Som Din Och G\xF6r S\xE5 M\xE5nga
+      Po\xE4ng Som M\xF6jligt"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6573495991791616
+    m_Localized: Skicka Synpunkter
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6791873830449152
+    m_Localized: Njut Av Spelet Utan Videoannons
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6791965593432064
+    m_Localized: Ta Bort Annonsen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10992588826578944
+    m_Localized: "H\xE4lsa -1"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10993056747327488
+    m_Localized: ' +30 Sekunder'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11017009276620800
+    m_Localized: Combo!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15074895160643584
+    m_Localized: Skriv Text...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15075104934563840
+    m_Localized: Vad Heter Du?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15075387009896448
+    m_Localized: Spara
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15076744953565184
+    m_Localized: Topplista
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16153803732938752
+    m_Localized: "Vad \xC4r Nytt?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16153901770600448
+    m_Localized: Jag Fattar!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16154408123756544
+    m_Localized: "H\xF6g Hastighet"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16160561524240384
+    m_Localized: "Vad \xC4r Nytt: - Spela Gratis!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17652141678522368
+    m_Localized: "L\xE4ser In"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18001279381442560
+    m_Localized: "Tryck P\xE5 V\xE4nster/H\xF6ger"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18001405437054976
+    m_Localized: "Svep \xC5t V\xE4nster/H\xF6ger"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18001543450628096
+    m_Localized: Dra Ner
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18001599893377024
+    m_Localized: Dra Upp
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18001911752462336
+    m_Localized: Hoppa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21536388847419392
+    m_Localized: Utmaningar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21536454513442816
+    m_Localized: Kommer Snart
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24186485939384320
+    m_Localized: "\xD6ppen"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24199001557970944
+    m_Localized: "Robot (Spelkarakt\xE4r)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24199098840657920
+    m_Localized: "F\xE5 Originalspelkarakt\xE4r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31299372835008512
+    m_Localized: Namn
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31407324824727552
+    m_Localized: "\xD6ppna Turn\xE9 Nr 1 -Resultat"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31630664042672128
+    m_Localized: Fart
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31637186307026944
+    m_Localized: "Ny Ing\xE5ng"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31640464067522560
+    m_Localized: Spikneutral
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44101391639506944
+    m_Localized: Autokombo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 80007104035155968
+    m_Localized: "Karakt\xE4r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 80007851468517376
+    m_Localized: "V\xE4lja"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 80007914710233088
+    m_Localized: "\u041E\u0442\u0440\u044B\u0442\u044C"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 80361368372768768
+    m_Localized: "Klicka F\xF6r Att L\xE4gga Till Dig I En V\xE4ntelista Och F\xE5
+      F\xF6rsta Demo"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 82402546429587456
+    m_Localized: "Steg F\xF6r Steg"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 82402832166547456
+    m_Localized: "O\xE4ndlig L\xF6pare"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 82501065983258624
+    m_Localized: Bra Jobb!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 82501160480927744
+    m_Localized: "J\xE4mna Upp"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 82516973887811584
+    m_Localized: Godis
+    m_Metadata:
+      m_Items: []
+  - m_Id: 262284395443007488
+    m_Localized: Nytt Spel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 262284577589047296
+    m_Localized: "N\xE4sta Niv\xE5"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 262300822245879808
+    m_Localized: "Niv\xE5"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 265924321044738048
+    m_Localized: "G\xE5!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 267375156786245632
+    m_Localized: Starta Spelet
+    m_Metadata:
+      m_Items: []
+  - m_Id: 267380668470800384
+    m_Localized: "L\xE4s Mer"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 267381676764704768
+    m_Localized: Ladda Ner
+    m_Metadata:
+      m_Items: []
+  - m_Id: 268077529875755008
+    m_Localized: "St\xE4ngd"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 270625134003208192
+    m_Localized: "Hoppa \xD6ver Niv\xE5n"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

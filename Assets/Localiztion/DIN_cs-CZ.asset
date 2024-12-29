@@ -1,0 +1,326 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: DIN_cs-CZ
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: cs-CZ
+  m_SharedData: {fileID: 11400000, guid: 69daa94877ad0a243959a8dcea82e8bf, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 66446553088
+    m_Localized: "Hr\xE1t Si"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5243643752448
+    m_Localized: "Nejlep\u0161\xED Sk\xF3re"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5456777310208
+    m_Localized: "Pokra\u010Dovat"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5675153747968
+    m_Localized: "V\xFDstup"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5990796095488
+    m_Localized: Restart
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6111256506368
+    m_Localized: "Tvoje Sk\xF3re"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6280656056320
+    m_Localized: Odebrat Reklamy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6699302121472
+    m_Localized: Vibrace
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7989621026816
+    m_Localized: Zvuk
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12358894612480
+    m_Localized: Test
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1928161540550656
+    m_Localized: "Dotkn\u011Bte Se P\u0159esunu Doleva"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1928682653462528
+    m_Localized: "Dotkn\u011Bte Se P\u0159esunu Doprava"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2061689257021440
+    m_Localized: "Swist Dol\u016F A V\xFDroba Kombo"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2070440231915520
+    m_Localized: "Pokuste Se P\u0159ejet\xEDm P\u0159ejet\xEDm Doleva/Doprava Pro
+      Dlouho Dojemn\xFD"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2070713792811008
+    m_Localized: 'Pravidla:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2070764803936256
+    m_Localized: "Zdrav\xED +1"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2071778277806080
+    m_Localized: "Zm\u011Bnit Barvu"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2072083954487296
+    m_Localized: "Bezbarv\xFD"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2072221225668608
+    m_Localized: "Trv\xE1 \u017Divot"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2072358958223360
+    m_Localized: "\u010Cas"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2072563325685760
+    m_Localized: Exploduje Bloky
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2072721782296576
+    m_Localized: Kapka Barvy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2075683694923776
+    m_Localized: "Zm\u011Bnit Barvu Din"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3646375032139776
+    m_Localized: "Pomal\xE1 Rychlost"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4596936447934464
+    m_Localized: "Obnovit N\xE1kup"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6076718780469248
+    m_Localized: "Zni\u010Dte Bloky Stejn\xE9 Barvy Jako Din A Z\xEDskejte Co Nejv\xEDce
+      Bod\u016F"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6573495991791616
+    m_Localized: "Poslat Zp\u011Btnou Vazbu"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6791873830449152
+    m_Localized: "U\u017Eijte Si Hru Bez Video Reklamy"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6791965593432064
+    m_Localized: Odebrat Reklamu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10992588826578944
+    m_Localized: "Zdrav\xED -1"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10993056747327488
+    m_Localized: ' +30 Sekund'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11017009276620800
+    m_Localized: Combo!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15074895160643584
+    m_Localized: Zadejte Text ...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15075104934563840
+    m_Localized: "Jak Se Jmenuje\u0161?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15075387009896448
+    m_Localized: "Ulo\u017Eit"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15076744953565184
+    m_Localized: "\u017Deb\u0159\xED\u010Dek"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16153803732938752
+    m_Localized: "Co Je Nov\xE9ho?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16153901770600448
+    m_Localized: "M\xE1m To!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16154408123756544
+    m_Localized: "Vysok\xE1 Rychlost"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16160561524240384
+    m_Localized: "Co Je Nov\xE9ho: - Hrajte Zdarma!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17652141678522368
+    m_Localized: "Na\u010D\xEDt\xE1n\xED"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18001279381442560
+    m_Localized: "Klepn\u011Bte Na Doleva/Doprava"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18001405437054976
+    m_Localized: "P\u0159ejet\xEDm Doleva/Doprava"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18001543450628096
+    m_Localized: "P\u0159eje\u010Fte Prstem Dol\u016F"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18001599893377024
+    m_Localized: "P\u0159eje\u010Fte Nahoru"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18001911752462336
+    m_Localized: Skok
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21536388847419392
+    m_Localized: "V\xFDzvy"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21536454513442816
+    m_Localized: "Ji\u017E Brzy"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24186485939384320
+    m_Localized: "Otev\u0159eno"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24199001557970944
+    m_Localized: "Robot (Hern\xED Postava)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24199098840657920
+    m_Localized: "Z\xEDskejte P\u016Fvodn\xED Hern\xED Postavu"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31299372835008512
+    m_Localized: "N\xE1zev"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31407324824727552
+    m_Localized: "V\xFDsledky Otev\u0159en\xE9 Turn\xE9 \u010C. 1"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31630664042672128
+    m_Localized: Rychlost
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31637186307026944
+    m_Localized: "Nov\xFD Z\xE1znam"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31640464067522560
+    m_Localized: "Spike Neutr\xE1ln\xED"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44101391639506944
+    m_Localized: Autocombo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 80007104035155968
+    m_Localized: Charakter
+    m_Metadata:
+      m_Items: []
+  - m_Id: 80007851468517376
+    m_Localized: Vybrat
+    m_Metadata:
+      m_Items: []
+  - m_Id: 80007914710233088
+    m_Localized: "\u041E\u0442\u043A\u0440\u044B\u0442\u044C"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 80361368372768768
+    m_Localized: "Kliknut\xEDm P\u0159idejte Do Seznamu \u010Cek\xE1n\xED A Z\xEDskejte
+      Prvn\xED Demo"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 82402546429587456
+    m_Localized: Krok Za Krokem
+    m_Metadata:
+      m_Items: []
+  - m_Id: 82402832166547456
+    m_Localized: "Nekone\u010Dn\xFD B\u011B\u017Eec"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 82501065983258624
+    m_Localized: "Dobr\xE1 Pr\xE1ce!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 82501160480927744
+    m_Localized: "O \xDArove\u0148 V\xFD\u0161"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 82516973887811584
+    m_Localized: "Bonb\xF3n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 262284395443007488
+    m_Localized: "Nov\xE1 Hra"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 262284577589047296
+    m_Localized: "Dal\u0161\xED \xDArove\u0148"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 262300822245879808
+    m_Localized: "\xDArove\u0148"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 265924321044738048
+    m_Localized: "J\xEDt!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 267375156786245632
+    m_Localized: "Za\u010D\xEDt Hru"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 267380668470800384
+    m_Localized: "P\u0159e\u010Dt\u011Bte Si V\xEDce"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 267381676764704768
+    m_Localized: "Sta\u017Een\xED"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 268077529875755008
+    m_Localized: "Zav\u0159eno"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 270625134003208192
+    m_Localized: "P\u0159esko\u010Dit \xDArove\u0148"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

@@ -1,0 +1,326 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: DIN_tk-TM
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: tk-TM
+  m_SharedData: {fileID: 11400000, guid: 69daa94877ad0a243959a8dcea82e8bf, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 66446553088
+    m_Localized: "O\xFDun O\xFDnamak"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5243643752448
+    m_Localized: "I\u0148 Gowy Bal"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5456777310208
+    m_Localized: Dowam Et
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5675153747968
+    m_Localized: "\xC7yky\u015F"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5990796095488
+    m_Localized: "T\xE4zeden Ba\u015Fla"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6111256506368
+    m_Localized: "Baly\u0148yz"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6280656056320
+    m_Localized: "Mahabalary A\xFDyry\u0148"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6699302121472
+    m_Localized: Yrgyldy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7989621026816
+    m_Localized: Ses
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12358894612480
+    m_Localized: Synag
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1928161540550656
+    m_Localized: "\xC7epe Ge\xE7mek \xDC\xE7in Degi\u0148"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1928682653462528
+    m_Localized: "Sag Tarapa Ge\xE7mek \xDC\xE7in Degi\u0148"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2061689257021440
+    m_Localized: "Kombin Etmek \xDC\xE7in A\u015Fak S\xFC\xFD\u015F\xFCri\u0148"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2070440231915520
+    m_Localized: "Uzak Hereket Etmek \xDC\xE7in \xC7ep / Sag S\xFC\xFD\u015Fm\xE4ge
+      Synany\u015Fy\u0148"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2070713792811008
+    m_Localized: "D\xFCzg\xFCnler:"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2070764803936256
+    m_Localized: Saglyk +1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2071778277806080
+    m_Localized: "Re\u0148kini \xDC\xFDtgetmek"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2072083954487296
+    m_Localized: "Re\u0148ksiz"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2072221225668608
+    m_Localized: "Durmu\u015Fy Gerek"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2072358958223360
+    m_Localized: Wagt
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2072563325685760
+    m_Localized: "Blokla\xFDar"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2072721782296576
+    m_Localized: "Bo\xFDagy\u0148 Damjasy"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2075683694923776
+    m_Localized: "Din Re\u0148kini \xDC\xFDtgetmek"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3646375032139776
+    m_Localized: "Ha\xFDal Tizlik"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4596936447934464
+    m_Localized: Satyn Almagy Dikeltmek
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6076718780469248
+    m_Localized: "M\xFCmkin Boldugy\xE7a Birme\u0148ze\u015F Re\u0148kde Birme\u0148ze\u015F
+      Re\u0148kde Bloklary \xDDok Edi\u0148"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6573495991791616
+    m_Localized: "Seslenme Iberi\u0148"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6791873830449152
+    m_Localized: "Wideo Mahabatsyz O\xFDundan Lezzet Aly\u0148"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6791965593432064
+    m_Localized: "Mahabaty A\xFDyry\u0148"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10992588826578944
+    m_Localized: Saglyk - Saglyk
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10993056747327488
+    m_Localized: ' +30 Sekunt'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11017009276620800
+    m_Localized: Kombo!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15074895160643584
+    m_Localized: "Teksti Girizi\u0148 ..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15075104934563840
+    m_Localized: "Ady\u0148 N\xE4me?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15075387009896448
+    m_Localized: "Tyg\u015Fytla\u0148"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15076744953565184
+    m_Localized: Lider Tagtasy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16153803732938752
+    m_Localized: "T\xE4ze N\xE4me?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16153901770600448
+    m_Localized: "D\xFC\u015F\xFCndim!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16154408123756544
+    m_Localized: "\xDDokary Tizlik"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16160561524240384
+    m_Localized: "T\xE4ze N\xE4me: - Mugt O\xFDna\u0148!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17652141678522368
+    m_Localized: "\xDD\xFCklemek"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18001279381442560
+    m_Localized: "\xC7ep / Saga Basy\u0148"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18001405437054976
+    m_Localized: "\xC7ep / Saga S\xFCp\xFCri\u0148"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18001543450628096
+    m_Localized: "S\xFCp\xFCri\u0148"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18001599893377024
+    m_Localized: "S\xFCp\xFCri\u0148"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18001911752462336
+    m_Localized: "B\xF6kmek"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21536388847419392
+    m_Localized: "Kyn\xE7ylyklar"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21536454513442816
+    m_Localized: "Basym Gel\xFD\xE4r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24186485939384320
+    m_Localized: "A\xE7yk"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24199001557970944
+    m_Localized: "Robot (O\xFDun Belgisi)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24199098840657920
+    m_Localized: "Asyl O\xFDun Ny\u015Fanyny Aly\u0148"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31299372835008512
+    m_Localized: Ady
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31407324824727552
+    m_Localized: "1-Nji Geple\u015Fik # Netijeler"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31630664042672128
+    m_Localized: Tizlik
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31637186307026944
+    m_Localized: "T\xE4ze Giri\u015F"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31640464067522560
+    m_Localized: Bitarap Bitarap
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44101391639506944
+    m_Localized: Awtoomo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 80007104035155968
+    m_Localized: "H\xE4si\xFDet"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 80007851468517376
+    m_Localized: "Sa\xFDla\u0148"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 80007914710233088
+    m_Localized: "\u0420\u044B\u043A\u0438\u0440 Rusda"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 80361368372768768
+    m_Localized: "Gara\u015Fmak Sanawyna Go\u015Fmak \xDC\xE7in Basy\u0148 We Ilkinji
+      Demo Aly\u0148"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 82402546429587456
+    m_Localized: "\xC4dim-\xC4dim"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 82402832166547456
+    m_Localized: "T\xFCkeniksiz Ylgaw\xE7y"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 82501065983258624
+    m_Localized: "Gowy I\u015F!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 82501160480927744
+    m_Localized: "Bir Basgan\xE7ak \xDDokary"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 82516973887811584
+    m_Localized: "S\xFC\xFDji"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 262284395443007488
+    m_Localized: "T\xE4ze O\xFDun"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 262284577589047296
+    m_Localized: Indiki Dereje
+    m_Metadata:
+      m_Items: []
+  - m_Id: 262300822245879808
+    m_Localized: Derejesi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 265924321044738048
+    m_Localized: Git!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 267375156786245632
+    m_Localized: "Ba\u015Flangy\xE7"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 267380668470800384
+    m_Localized: Koprak Oka
+    m_Metadata:
+      m_Items: []
+  - m_Id: 267381676764704768
+    m_Localized: "G\xF6\xE7\xFCrip Al"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 268077529875755008
+    m_Localized: "\xDDapyk"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 270625134003208192
+    m_Localized: "Derejesi Ge\xE7i\u0148"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

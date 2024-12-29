@@ -1,0 +1,325 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: DIN_pl-PL
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: pl-PL
+  m_SharedData: {fileID: 11400000, guid: 69daa94877ad0a243959a8dcea82e8bf, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 66446553088
+    m_Localized: "Gra\u0107"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5243643752448
+    m_Localized: Najlepszy Wynik
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5456777310208
+    m_Localized: "Kontynuowa\u0107"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5675153747968
+    m_Localized: "Wyj\u015Bcie"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5990796095488
+    m_Localized: Uruchom Ponownie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6111256506368
+    m_Localized: "Tw\xF3j Wynik"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6280656056320
+    m_Localized: "Usu\u0144 Reklamy"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6699302121472
+    m_Localized: Wibracja
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7989621026816
+    m_Localized: "D\u017Awi\u0119k"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12358894612480
+    m_Localized: Test
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1928161540550656
+    m_Localized: "Dotknij, Aby Przenie\u015B\u0107 Si\u0119 W Lewo"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1928682653462528
+    m_Localized: "Dotknij, Aby Porusza\u0107 Si\u0119 W Prawo"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2061689257021440
+    m_Localized: "Przesu\u0144 W D\xF3\u0142, Aby Stworzy\u0107 Kombinacj\u0119"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2070440231915520
+    m_Localized: "Spr\xF3buj Przesun\u0105\u0107 W Lewo/Prawo Na D\u0142ugie Poruszanie"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2070713792811008
+    m_Localized: 'Zasady:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2070764803936256
+    m_Localized: Zdrowie +1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2071778277806080
+    m_Localized: "Zmie\u0144 Kolor"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2072083954487296
+    m_Localized: Bezbarwny
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2072221225668608
+    m_Localized: "Zabiera \u017Bycie"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2072358958223360
+    m_Localized: Czas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2072563325685760
+    m_Localized: Eksploduje Bloki
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2072721782296576
+    m_Localized: Kropla Farby
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2075683694923776
+    m_Localized: "Zmie\u0144 Kolor Din"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3646375032139776
+    m_Localized: "Niska Pr\u0119dko\u015B\u0107"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4596936447934464
+    m_Localized: "Przywr\xF3\u0107 Zakup"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6076718780469248
+    m_Localized: "Zniszcz Bloki O Tym Samym Kolorze Co Din I Zdobywaj Jak Najwi\u0119cej
+      Punkt\xF3w"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6573495991791616
+    m_Localized: "Wy\u015Blij Opini\u0119"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6791873830449152
+    m_Localized: "Ciesz Si\u0119 Gr\u0105 Bez Reklamy Wideo"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6791965593432064
+    m_Localized: "Usu\u0144 Reklam\u0119"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10992588826578944
+    m_Localized: Zdrowie -1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10993056747327488
+    m_Localized: ' +30 Sekund'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11017009276620800
+    m_Localized: Kombinacja!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15074895160643584
+    m_Localized: "Wprowad\u017A Tekst..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15075104934563840
+    m_Localized: "Jak Masz Na Imi\u0119?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15075387009896448
+    m_Localized: "Ratowa\u0107"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15076744953565184
+    m_Localized: "Tabela Lider\xF3w"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16153803732938752
+    m_Localized: Co Nowego?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16153901770600448
+    m_Localized: Rozumiem!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16154408123756544
+    m_Localized: "Wysoka Pr\u0119dko\u015B\u0107"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16160561524240384
+    m_Localized: 'Co Nowego: - Graj Za Darmo!'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17652141678522368
+    m_Localized: "\u0141adowanie"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18001279381442560
+    m_Localized: Stuknij W Lewo/W Prawo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18001405437054976
+    m_Localized: "Przesu\u0144 W Lewo/W Prawo"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18001543450628096
+    m_Localized: "Przesu\u0144 W D\xF3\u0142"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18001599893377024
+    m_Localized: "Przesu\u0144 Palcem W G\xF3r\u0119"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18001911752462336
+    m_Localized: Skok
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21536388847419392
+    m_Localized: Wyzwania
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21536454513442816
+    m_Localized: "Wkr\xF3tce"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24186485939384320
+    m_Localized: Otwarty
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24199001557970944
+    m_Localized: "Robot (Posta\u0107 Z Gry)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24199098840657920
+    m_Localized: "Zdob\u0105d\u017A Oryginaln\u0105 Posta\u0107 Gry"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31299372835008512
+    m_Localized: Nazwa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31407324824727552
+    m_Localized: Otwarta Wycieczka Nr 1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31630664042672128
+    m_Localized: "Pr\u0119dko\u015B\u0107"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31637186307026944
+    m_Localized: "Nowe Wej\u015Bcie"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31640464067522560
+    m_Localized: Spike Neutral
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44101391639506944
+    m_Localized: Autocombo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 80007104035155968
+    m_Localized: "Posta\u0107"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 80007851468517376
+    m_Localized: "Wybiera\u0107"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 80007914710233088
+    m_Localized: "\u041E\u0442\u043A\u0440\u044B\u0442\u044C"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 80361368372768768
+    m_Localized: "Kliknij, Aby Doda\u0107 Ci\u0119 Do Listy Oczekuj\u0105cych I Uzyska\u0107
+      Pierwsze Demo"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 82402546429587456
+    m_Localized: Krok Po Kroku
+    m_Metadata:
+      m_Items: []
+  - m_Id: 82402832166547456
+    m_Localized: "Nieko\u0144cz\u0105cy Si\u0119 Biegacz"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 82501065983258624
+    m_Localized: Dobra Robota!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 82501160480927744
+    m_Localized: "Podnie\u015B\u0107 Do W\u0142a\u015Bciwego Poziomu"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 82516973887811584
+    m_Localized: Cukierek
+    m_Metadata:
+      m_Items: []
+  - m_Id: 262284395443007488
+    m_Localized: Nowa Gra
+    m_Metadata:
+      m_Items: []
+  - m_Id: 262284577589047296
+    m_Localized: "Nast\u0119pny Poziom"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 262300822245879808
+    m_Localized: Poziom
+    m_Metadata:
+      m_Items: []
+  - m_Id: 265924321044738048
+    m_Localized: "I\u015B\u0107!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 267375156786245632
+    m_Localized: "Rozpocz\u0105\u0107 Gr\u0119"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 267380668470800384
+    m_Localized: "Czytaj Wi\u0119cej"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 267381676764704768
+    m_Localized: "Pobiera\u0107"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 268077529875755008
+    m_Localized: "Zamkni\u0119te"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 270625134003208192
+    m_Localized: "Pomi\u0144 Poziom"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

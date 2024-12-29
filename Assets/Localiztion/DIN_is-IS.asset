@@ -1,0 +1,325 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: DIN_is-IS
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: is-IS
+  m_SharedData: {fileID: 11400000, guid: 69daa94877ad0a243959a8dcea82e8bf, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 66446553088
+    m_Localized: Leika
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5243643752448
+    m_Localized: "Besta Stigi\xF0"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5456777310208
+    m_Localized: "Haltu \xC1fram"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5675153747968
+    m_Localized: "\xDAtg\xF6ngulei\xF0"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5990796095488
+    m_Localized: "Endurr\xE6sa"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6111256506368
+    m_Localized: "Stigin \xDE\xEDn"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6280656056320
+    m_Localized: "Fjarl\xE6gja Augl\xFDsingar"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6699302121472
+    m_Localized: Titringur
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7989621026816
+    m_Localized: "Hlj\xF3\xF0"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12358894612480
+    m_Localized: "Pr\xF3f"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1928161540550656
+    m_Localized: "Snerta Fyrir A\xF0 Flytja Til Vinstri"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1928682653462528
+    m_Localized: "Snerta Fyrir A\xF0 Fara Til H\xE6gri"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2061689257021440
+    m_Localized: "Strj\xFAktu Ni\xF0ur Til A\xF0 Gera Combo"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2070440231915520
+    m_Localized: "Reyndu A\xF0 Strj\xFAka Til Vinstri/H\xE6gri \xCD Langan Hreyfingu"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2070713792811008
+    m_Localized: 'Reglur:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2070764803936256
+    m_Localized: Heilsa +1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2071778277806080
+    m_Localized: Breyttu Lit.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2072083954487296
+    m_Localized: Litlaus
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2072221225668608
+    m_Localized: "Tekur L\xEDfi\xF0"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2072358958223360
+    m_Localized: "T\xEDmi"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2072563325685760
+    m_Localized: Sprengir Blokkir
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2072721782296576
+    m_Localized: "Dropa Af M\xE1lningu"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2075683694923776
+    m_Localized: "Skiptu Um D\xEDn Lit."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3646375032139776
+    m_Localized: "H\xE6gur Hra\xF0i"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4596936447934464
+    m_Localized: Endurheimta Kaup
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6076718780469248
+    m_Localized: "Ey\xF0ileggja Blokkir \xCD Sama Lit Og Din Og Skora Eins M\xF6rg
+      Stig Og M\xF6gulegt Er"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6573495991791616
+    m_Localized: Senda Athugasemdir
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6791873830449152
+    m_Localized: "Nj\xF3ttu Leiksins \xC1n V\xEDde\xF3augl\xFDsinga"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6791965593432064
+    m_Localized: "Fjarl\xE6g\xF0u Augl\xFDsingu"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10992588826578944
+    m_Localized: Heilsa -1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10993056747327488
+    m_Localized: " +30 Sek\xFAndur"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11017009276620800
+    m_Localized: Combo!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15074895160643584
+    m_Localized: "Sl\xE1\xF0u Inn Texta ..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15075104934563840
+    m_Localized: "Hva\xF0 Heitir \xDE\xFA?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15075387009896448
+    m_Localized: Vista
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15076744953565184
+    m_Localized: "Lei\xF0togi"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16153803732938752
+    m_Localized: "Hva\xF0 Er N\xFDtt?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16153901770600448
+    m_Localized: "N\xE1\xF0i \xDEv\xED!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16154408123756544
+    m_Localized: "H\xE1hra\xF0a"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16160561524240384
+    m_Localized: "Hva\xF0 Er N\xFDtt: - Spila\xF0u \xD3keypis!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17652141678522368
+    m_Localized: "Hle\xF0sla"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18001279381442560
+    m_Localized: "Pikka\xF0u \xC1 Vinstri/H\xE6gri"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18001405437054976
+    m_Localized: "Strj\xFAktu Til Vinstri/H\xE6gri"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18001543450628096
+    m_Localized: "Strj\xFAktu Ni\xF0ur"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18001599893377024
+    m_Localized: "Strj\xFAktu Upp"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18001911752462336
+    m_Localized: "Hoppa\xF0u"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21536388847419392
+    m_Localized: "\xC1skoranir"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21536454513442816
+    m_Localized: "V\xE6ntanlegt"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24186485939384320
+    m_Localized: "Opi\xF0"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24199001557970944
+    m_Localized: "V\xE9lmenni (Leikjapers\xF3na)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24199098840657920
+    m_Localized: "F\xE1\xF0u Upprunalega Leikpers\xF3nu"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31299372835008512
+    m_Localized: Nafn
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31407324824727552
+    m_Localized: "Opin Fer\xF0#1 Ni\xF0urst\xF6\xF0ur"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31630664042672128
+    m_Localized: "Hra\xF0i"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31637186307026944
+    m_Localized: "N\xFD F\xE6rsla"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31640464067522560
+    m_Localized: Spike Hlutlaus
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44101391639506944
+    m_Localized: Autocombo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 80007104035155968
+    m_Localized: Staf
+    m_Metadata:
+      m_Items: []
+  - m_Id: 80007851468517376
+    m_Localized: Veldu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 80007914710233088
+    m_Localized: "\u041E\u044B\u0440\u044B"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 80361368372768768
+    m_Localized: "Smelltu Til A\xF0 B\xE6ta \xDE\xE9r Vi\xF0 Bi\xF0lista Og F\xE1\xF0u
+      Fyrstu Kynningu"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 82402546429587456
+    m_Localized: Skref Fyrir Skref
+    m_Metadata:
+      m_Items: []
+  - m_Id: 82402832166547456
+    m_Localized: Endalaus Hlaupari
+    m_Metadata:
+      m_Items: []
+  - m_Id: 82501065983258624
+    m_Localized: "F\xEDnt Starf!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 82501160480927744
+    m_Localized: Jafna Upp
+    m_Metadata:
+      m_Items: []
+  - m_Id: 82516973887811584
+    m_Localized: Nammi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 262284395443007488
+    m_Localized: "N\xFDr Leikur"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 262284577589047296
+    m_Localized: "N\xE6sta Bor\xF0"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 262300822245879808
+    m_Localized: Stig
+    m_Metadata:
+      m_Items: []
+  - m_Id: 265924321044738048
+    m_Localized: "Far\xF0u!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 267375156786245632
+    m_Localized: Byrja Leik
+    m_Metadata:
+      m_Items: []
+  - m_Id: 267380668470800384
+    m_Localized: Lestu Meira
+    m_Metadata:
+      m_Items: []
+  - m_Id: 267381676764704768
+    m_Localized: "S\xE6kja"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 268077529875755008
+    m_Localized: "Loka\xF0"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 270625134003208192
+    m_Localized: Sleppa Stigi
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

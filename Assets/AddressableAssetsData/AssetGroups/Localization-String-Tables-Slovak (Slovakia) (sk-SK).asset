@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Localization-String-Tables-Slovak (Slovakia) (sk-SK)
+  m_EditorClassIdentifier: 
+  m_GroupName: Localization-String-Tables-Slovak (Slovakia) (sk-SK)
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 52bb7343d874fb047aa811d29770ee02
+  m_SerializeEntries:
+  - m_GUID: 34db6bbd2cfffa940815bd63a88cf073
+    m_Address: DIN_sk-SK
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-sk-SK
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 1
+  m_Settings: {fileID: 11400000, guid: 248033983ee83fe4f8bf83b2f3d2b220, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: db6c2c2670893e747bc2c3a470cd683b, type: 2}
+    - {fileID: 11400000, guid: 026227fc81339ac46af8946c00de195c, type: 2}

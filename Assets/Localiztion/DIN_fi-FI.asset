@@ -1,0 +1,325 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: DIN_fi-FI
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: fi-FI
+  m_SharedData: {fileID: 11400000, guid: 69daa94877ad0a243959a8dcea82e8bf, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 66446553088
+    m_Localized: Pelata
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5243643752448
+    m_Localized: Paras Tulos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5456777310208
+    m_Localized: Jatkaa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5675153747968
+    m_Localized: Poistuminen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5990796095488
+    m_Localized: "Uudelleenk\xE4ynnist\xE4\xE4"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6111256506368
+    m_Localized: Pisteesi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6280656056320
+    m_Localized: Poista Mainokset
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6699302121472
+    m_Localized: "V\xE4r\xE4htely"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7989621026816
+    m_Localized: "\xC4\xE4ni"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12358894612480
+    m_Localized: Testata
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1928161540550656
+    m_Localized: "Kosketa Siirtymist\xE4 Vasemmalle"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1928682653462528
+    m_Localized: "Kosketa Siirtymist\xE4 Oikealle"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2061689257021440
+    m_Localized: "Pyyhk\xE4ise Alas Tehd\xE4ksesi Yhdistelm\xE4\xE4"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2070440231915520
+    m_Localized: "Yrit\xE4 Pyyhk\xE4ist\xE4 Vasemmalle/Oikealle Pitk\xE4\xE4n Liikkumiseksi"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2070713792811008
+    m_Localized: "S\xE4\xE4nn\xF6t:"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2070764803936256
+    m_Localized: Terveys +1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2071778277806080
+    m_Localized: "Vaihda V\xE4ri"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2072083954487296
+    m_Localized: "V\xE4rit\xF6n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2072221225668608
+    m_Localized: "Ottaa El\xE4m\xE4\xE4"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2072358958223360
+    m_Localized: Aika
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2072563325685760
+    m_Localized: "R\xE4j\xE4ht\xE4\xE4 Lohkoja"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2072721782296576
+    m_Localized: Tippa Maalia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2075683694923776
+    m_Localized: "Vaihda Dinv\xE4ri"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3646375032139776
+    m_Localized: Hidas Nopeus
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4596936447934464
+    m_Localized: Palauta Osto
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6076718780469248
+    m_Localized: "Tuhoa Samanv\xE4riset Lohkot Kuin Din Ja Pisteet Mahdollisimman
+      Monta Pistett\xE4"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6573495991791616
+    m_Localized: "L\xE4het\xE4 Palautetta"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6791873830449152
+    m_Localized: "Nauti Pelist\xE4 Ilman Videomainosta"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6791965593432064
+    m_Localized: Poista Mainos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10992588826578944
+    m_Localized: Terveys -1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10993056747327488
+    m_Localized: ' +30 Sekuntia'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11017009276620800
+    m_Localized: Kombo!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15074895160643584
+    m_Localized: Kirjoita Teksti ...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15075104934563840
+    m_Localized: "Mik\xE4 Sinun Nimesi On?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15075387009896448
+    m_Localized: Tallentaa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15076744953565184
+    m_Localized: Tulostaulu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16153803732938752
+    m_Localized: "Mit\xE4 Uutta?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16153901770600448
+    m_Localized: Sain Sen!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16154408123756544
+    m_Localized: Suuri Nopeus
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16160561524240384
+    m_Localized: "Mit\xE4 Uutta: - Pelaa Ilmaiseksi!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17652141678522368
+    m_Localized: Ladataan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18001279381442560
+    m_Localized: Napauta Vasemmalle/Oikealle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18001405437054976
+    m_Localized: "Pyyhk\xE4ise Vasemmalle/Oikealle"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18001543450628096
+    m_Localized: "Pyyhk\xE4ise Alas"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18001599893377024
+    m_Localized: "Pyyhk\xE4ise Yl\xF6s"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18001911752462336
+    m_Localized: "Hyp\xE4t\xE4"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21536388847419392
+    m_Localized: Haasteet
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21536454513442816
+    m_Localized: Tulossa Pian
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24186485939384320
+    m_Localized: Avata
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24199001557970944
+    m_Localized: Robotti (Pelihahmo)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24199098840657920
+    m_Localized: "Hanki Alkuper\xE4inen Pelihahmo"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31299372835008512
+    m_Localized: Nimi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31407324824727552
+    m_Localized: Open Tour#1 Tulokset
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31630664042672128
+    m_Localized: Nopeus
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31637186307026944
+    m_Localized: "Uusi Merkint\xE4"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31640464067522560
+    m_Localized: Piikkien Neutraali
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44101391639506944
+    m_Localized: Autokombo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 80007104035155968
+    m_Localized: Merkki
+    m_Metadata:
+      m_Items: []
+  - m_Id: 80007851468517376
+    m_Localized: Valita
+    m_Metadata:
+      m_Items: []
+  - m_Id: 80007914710233088
+    m_Localized: "\u041E\u0442\u043A\u0440\u044B"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 80361368372768768
+    m_Localized: "Napsauta Lis\xE4t\xE4ksesi Sinut Odotusluetteloon Ja Hanki Ensimm\xE4inen
+      Esittely"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 82402546429587456
+    m_Localized: Askel Askeleelta
+    m_Metadata:
+      m_Items: []
+  - m_Id: 82402832166547456
+    m_Localized: Loputon Juoksija
+    m_Metadata:
+      m_Items: []
+  - m_Id: 82501065983258624
+    m_Localized: "Hyv\xE4\xE4 Ty\xF6t\xE4!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 82501160480927744
+    m_Localized: Nousta Taso
+    m_Metadata:
+      m_Items: []
+  - m_Id: 82516973887811584
+    m_Localized: Karkki
+    m_Metadata:
+      m_Items: []
+  - m_Id: 262284395443007488
+    m_Localized: Uusi Peli
+    m_Metadata:
+      m_Items: []
+  - m_Id: 262284577589047296
+    m_Localized: Seuraava Taso
+    m_Metadata:
+      m_Items: []
+  - m_Id: 262300822245879808
+    m_Localized: Taso
+    m_Metadata:
+      m_Items: []
+  - m_Id: 265924321044738048
+    m_Localized: "Menn\xE4!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 267375156786245632
+    m_Localized: Aloita Peli
+    m_Metadata:
+      m_Items: []
+  - m_Id: 267380668470800384
+    m_Localized: "Lue Lis\xE4\xE4"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 267381676764704768
+    m_Localized: Ladata
+    m_Metadata:
+      m_Items: []
+  - m_Id: 268077529875755008
+    m_Localized: Suljettu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 270625134003208192
+    m_Localized: Hyppataso
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

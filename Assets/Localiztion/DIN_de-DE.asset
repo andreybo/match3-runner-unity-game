@@ -1,0 +1,325 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: DIN_de-DE
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: de-DE
+  m_SharedData: {fileID: 11400000, guid: 69daa94877ad0a243959a8dcea82e8bf, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 66446553088
+    m_Localized: Spielen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5243643752448
+    m_Localized: Bestes Ergebnis
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5456777310208
+    m_Localized: Weitermachen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5675153747968
+    m_Localized: Ausfahrt
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5990796095488
+    m_Localized: Neu Starten
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6111256506368
+    m_Localized: Ihr Ergebnis
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6280656056320
+    m_Localized: Anzeigen Entfernen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6699302121472
+    m_Localized: Vibration
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7989621026816
+    m_Localized: Klang
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12358894612480
+    m_Localized: "Pr\xFCfen"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1928161540550656
+    m_Localized: "Ber\xFChren Sie Sich Nach Links"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1928682653462528
+    m_Localized: "Ber\xFChren Sie Sich Nach Rechts"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2061689257021440
+    m_Localized: Wischen Sie Nach Unten, Um Combo Zu Machen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2070440231915520
+    m_Localized: "Versuchen Sie, F\xFCr Lange Bewegungen Nach Links/Rechts Zu Wischen"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2070713792811008
+    m_Localized: 'Regeln:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2070764803936256
+    m_Localized: Gesundheit +1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2071778277806080
+    m_Localized: "Farbe \xC4ndern"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2072083954487296
+    m_Localized: Farblos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2072221225668608
+    m_Localized: Nimmt Das Leben
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2072358958223360
+    m_Localized: Zeit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2072563325685760
+    m_Localized: "Explodiert Bl\xF6cke"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2072721782296576
+    m_Localized: Tropfen Farbe
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2075683694923776
+    m_Localized: "Din -Farbe \xC4ndern"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3646375032139776
+    m_Localized: Langsame Geschwindigkeit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4596936447934464
+    m_Localized: Kauf Wiederherstellen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6076718780469248
+    m_Localized: "Zerst\xF6re Bl\xF6cke Der Gleichen Farbe Wie Din Und Erzielte So
+      Viele Punkte Wie M\xF6glich"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6573495991791616
+    m_Localized: Feedback Abschicken
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6791873830449152
+    m_Localized: "Genie\xDFen Sie Das Spiel Ohne Videowerbung"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6791965593432064
+    m_Localized: Werbung Entfernen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10992588826578944
+    m_Localized: Gesundheit -1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10993056747327488
+    m_Localized: ' +30 Sekunden'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11017009276620800
+    m_Localized: Combo!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15074895160643584
+    m_Localized: Text Eingeben...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15075104934563840
+    m_Localized: "Wie Hei\xDFt Du?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15075387009896448
+    m_Localized: Speichern
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15076744953565184
+    m_Localized: Bestenliste
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16153803732938752
+    m_Localized: Was Ist Neu?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16153901770600448
+    m_Localized: Habe Es!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16154408123756544
+    m_Localized: Hohe Geschwindigkeit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16160561524240384
+    m_Localized: 'Was Ist Neu: - Kostenlos Spielen!'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17652141678522368
+    m_Localized: Wird Geladen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18001279381442560
+    m_Localized: Tippen Sie Nach Links/Rechts
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18001405437054976
+    m_Localized: Links/Rechts Streichen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18001543450628096
+    m_Localized: Wischen Sie Nach Unten
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18001599893377024
+    m_Localized: Wischen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18001911752462336
+    m_Localized: Springen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21536388847419392
+    m_Localized: Herausforderungen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21536454513442816
+    m_Localized: "Demn\xE4chst"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24186485939384320
+    m_Localized: Offen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24199001557970944
+    m_Localized: Roboter (Spielcharakter)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24199098840657920
+    m_Localized: Holen Sie Sich Original -Spielcharakter
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31299372835008512
+    m_Localized: Name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31407324824727552
+    m_Localized: Offene Tour Nr. 1 Ergebnisse
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31630664042672128
+    m_Localized: Geschwindigkeit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31637186307026944
+    m_Localized: Neuer Eintrag
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31640464067522560
+    m_Localized: Spike Neutral
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44101391639506944
+    m_Localized: Autocombo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 80007104035155968
+    m_Localized: Charakter
+    m_Metadata:
+      m_Items: []
+  - m_Id: 80007851468517376
+    m_Localized: "W\xE4hlen"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 80007914710233088
+    m_Localized: "\u041E\u0442\u043A\u0440\u044B\u044B\u044B"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 80361368372768768
+    m_Localized: "Klicken Sie Hier, Um Sie Zu Einer Warteliste Hinzuzuf\xFCgen Und
+      Die Erste Demo Zu Erhalten"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 82402546429587456
+    m_Localized: "Schritt F\xFCr Schritt"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 82402832166547456
+    m_Localized: "Endloser L\xE4ufer"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 82501065983258624
+    m_Localized: Gut Gemacht!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 82501160480927744
+    m_Localized: Aufleveln
+    m_Metadata:
+      m_Items: []
+  - m_Id: 82516973887811584
+    m_Localized: "S\xFC\xDFigkeiten"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 262284395443007488
+    m_Localized: Neues Spiel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 262284577589047296
+    m_Localized: "N\xE4chste Ebene"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 262300822245879808
+    m_Localized: Ebene
+    m_Metadata:
+      m_Items: []
+  - m_Id: 265924321044738048
+    m_Localized: Gehen!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 267375156786245632
+    m_Localized: Spiel Beginnen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 267380668470800384
+    m_Localized: Mehr Lesen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 267381676764704768
+    m_Localized: Herunterladen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 268077529875755008
+    m_Localized: Geschlossen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 270625134003208192
+    m_Localized: "Level \xDCberspringen"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

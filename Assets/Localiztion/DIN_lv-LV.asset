@@ -1,0 +1,326 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: DIN_lv-LV
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: lv-LV
+  m_SharedData: {fileID: 11400000, guid: 69daa94877ad0a243959a8dcea82e8bf, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 66446553088
+    m_Localized: "Rota\u013Clieta"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5243643752448
+    m_Localized: "Lab\u0101kais Rezult\u0101ts"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5456777310208
+    m_Localized: "Turpin\u0101t"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5675153747968
+    m_Localized: Izeja
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5990796095488
+    m_Localized: "Restart\u0113t"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6111256506368
+    m_Localized: "Tavs Rezult\u0101ts"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6280656056320
+    m_Localized: "No\u0146emt Rekl\u0101mas"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6699302121472
+    m_Localized: "Vibr\u0101cija"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7989621026816
+    m_Localized: "Ska\u0146a"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12358894612480
+    m_Localized: "P\u0101rbaude"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1928161540550656
+    m_Localized: "Pieskarieties, Lai P\u0101rvietotos Pa Kreisi"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1928682653462528
+    m_Localized: "Pieskarieties, Lai P\u0101rvietotos Pa Labi"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2061689257021440
+    m_Localized: "P\u0101rvelciet Uz Leju, Lai Izveidotu Kombi"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2070440231915520
+    m_Localized: "M\u0113\u0123iniet P\u0101rvilkt Pa Kreisi/Pa Labi, Lai Ilgsto\u0161i
+      P\u0101rvietotu"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2070713792811008
+    m_Localized: 'Noteikumi:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2070764803936256
+    m_Localized: "Vesel\u012Bba +1"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2071778277806080
+    m_Localized: "Main\u012Bt Kr\u0101su"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2072083954487296
+    m_Localized: "Bezkr\u0101sains"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2072221225668608
+    m_Localized: "At\u0146emt Dz\u012Bv\u012Bbu"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2072358958223360
+    m_Localized: Laiks
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2072563325685760
+    m_Localized: "Eksplod\u0113 Blokus"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2072721782296576
+    m_Localized: "Kr\u0101sas Piliens"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2075683694923776
+    m_Localized: "Mainiet Din Kr\u0101su"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3646375032139776
+    m_Localized: "L\u0113ns \u0100trums"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4596936447934464
+    m_Localized: Atjaunot Pirkumu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6076718780469248
+    m_Localized: "Izn\u012Bciniet T\u0101das Pa\u0161as Kr\u0101sas Blokus K\u0101
+      Din Un Ieg\u016Bstiet P\u0113c Iesp\u0113jas Vair\u0101k Punktu"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6573495991791616
+    m_Localized: "Nos\u016Bt\u012Bt Atsauksmes"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6791873830449152
+    m_Localized: "Izbaudiet Sp\u0113li Bez Video Rekl\u0101mas"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6791965593432064
+    m_Localized: "No\u0146emiet Rekl\u0101mu"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10992588826578944
+    m_Localized: "Vesel\u012Bba -1"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10993056747327488
+    m_Localized: ' +30 Sekundes'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11017009276620800
+    m_Localized: Combo!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15074895160643584
+    m_Localized: Ievadiet Tekstu ...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15075104934563840
+    m_Localized: "K\u0101ds Ir Tavs V\u0101rds?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15075387009896448
+    m_Localized: "Ietaup\u012Bt"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15076744953565184
+    m_Localized: "L\u012Bdere"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16153803732938752
+    m_Localized: Kas Jauns?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16153901770600448
+    m_Localized: Sapratu!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16154408123756544
+    m_Localized: "Liels \u0100trums"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16160561524240384
+    m_Localized: "Kas Jauns: - Sp\u0113l\u0113jiet Bez Maksas!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17652141678522368
+    m_Localized: "Iekrau\u0161ana"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18001279381442560
+    m_Localized: Pieskarieties Pa Kreisi/Pa Labi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18001405437054976
+    m_Localized: "P\u0101rvelciet Kreiso/Labo"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18001543450628096
+    m_Localized: Nolaist
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18001599893377024
+    m_Localized: "P\u0101rvilkt"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18001911752462336
+    m_Localized: "L\u0113ciens"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21536388847419392
+    m_Localized: "Izaicin\u0101jumi"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21536454513442816
+    m_Localized: "Dr\u012Bzum\u0101"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24186485939384320
+    m_Localized: "Atv\u0113rt"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24199001557970944
+    m_Localized: "Robots (Sp\u0113les Raksturs)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24199098840657920
+    m_Localized: "Ieg\u016Bstiet Ori\u0123in\u0101lo Sp\u0113les Raksturu"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31299372835008512
+    m_Localized: Nosaukt
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31407324824727552
+    m_Localized: "Atv\u0113rts T\u016Bris#1 Rezult\u0101ti"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31630664042672128
+    m_Localized: "\u0100trums"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31637186307026944
+    m_Localized: Jauns Ieraksts
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31640464067522560
+    m_Localized: "Smailes Neitr\u0101ls"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44101391639506944
+    m_Localized: Autokombo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 80007104035155968
+    m_Localized: Raksturs
+    m_Metadata:
+      m_Items: []
+  - m_Id: 80007851468517376
+    m_Localized: "Izv\u0113l\u0113ties"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 80007914710233088
+    m_Localized: "\u041E\u0442\u0440\u044B\u0442\u044C"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 80361368372768768
+    m_Localized: "Noklik\u0161\u0137iniet, Lai Pievienotu J\u016Bs Gaid\u012B\u0161anas
+      Sarakstam Un Sa\u0146emiet Pirmo Demonstr\u0101ciju"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 82402546429587456
+    m_Localized: Soli Pa Solim
+    m_Metadata:
+      m_Items: []
+  - m_Id: 82402832166547456
+    m_Localized: "Bezgal\u012Bgs Skr\u0113j\u0113js"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 82501065983258624
+    m_Localized: Jauks Darbs!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 82501160480927744
+    m_Localized: "Izl\u012Bdzin\u0101ties"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 82516973887811584
+    m_Localized: Konfektes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 262284395443007488
+    m_Localized: "Jauna Sp\u0113le"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 262284577589047296
+    m_Localized: "N\u0101kamais L\u012Bmenis"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 262300822245879808
+    m_Localized: "L\u012Bdzv\u0113rt\u012Bgs"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 265924321044738048
+    m_Localized: Ej!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 267375156786245632
+    m_Localized: "S\u0101kt Sp\u0113li"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 267380668470800384
+    m_Localized: "Las\u012Bt Vair\u0101k"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 267381676764704768
+    m_Localized: "Lejupiel\u0101d\u0113t"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 268077529875755008
+    m_Localized: "Sl\u0113gts"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 270625134003208192
+    m_Localized: "Izlaist L\u012Bmeni"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

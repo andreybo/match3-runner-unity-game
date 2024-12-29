@@ -1,0 +1,328 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: DIN Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: DIN
+  m_TableCollectionNameGuidString: 69daa94877ad0a243959a8dcea82e8bf
+  m_Entries:
+  - m_Id: 66446553088
+    m_Key: Play
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5243643752448
+    m_Key: Best Score
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5456777310208
+    m_Key: Continue
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5675153747968
+    m_Key: Exit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5990796095488
+    m_Key: Restart
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6111256506368
+    m_Key: Your Score
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6280656056320
+    m_Key: Remove Ads
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6699302121472
+    m_Key: Vibration
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7989621026816
+    m_Key: Sound
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12358894612480
+    m_Key: test
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1928161540550656
+    m_Key: Touch for moving to the left
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1928682653462528
+    m_Key: Touch for moving to the right
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2061689257021440
+    m_Key: Swipe down to make combo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2070440231915520
+    m_Key: Try to swipe left/right for long moving
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2070713792811008
+    m_Key: 'Rules:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2070764803936256
+    m_Key: Health +1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2071778277806080
+    m_Key: Change color
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2072083954487296
+    m_Key: Colorless
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2072221225668608
+    m_Key: Takes life
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2072358958223360
+    m_Key: Time
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2072563325685760
+    m_Key: Explodes blocks
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2072721782296576
+    m_Key: Drop of paint
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2075683694923776
+    m_Key: Change DIN color
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3646375032139776
+    m_Key: Slow speed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4596936447934464
+    m_Key: Restore Purchase
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6076718780469248
+    m_Key: Destroy blocks of the same color as Din and score as many points as possible
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6573495991791616
+    m_Key: Send Feedback
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6791873830449152
+    m_Key: Enjoy the game without video advertisement
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6791965593432064
+    m_Key: Remove Advertisement
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10992588826578944
+    m_Key: Health -1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10993056747327488
+    m_Key: ' +30 seconds'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11017009276620800
+    m_Key: Combo!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15074895160643584
+    m_Key: Enter text...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15075104934563840
+    m_Key: What is your name?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15075387009896448
+    m_Key: Save
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15076744953565184
+    m_Key: Leaderboard
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16153803732938752
+    m_Key: What is new?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16153901770600448
+    m_Key: Got it!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16154408123756544
+    m_Key: High speed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16160561524240384
+    m_Key: 'What''s new: - Play for free!'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17652141678522368
+    m_Key: Loading
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18001279381442560
+    m_Key: Tap left/right
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18001405437054976
+    m_Key: Swipe left/right
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18001543450628096
+    m_Key: Swipe down
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18001599893377024
+    m_Key: Swipe up
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18001911752462336
+    m_Key: Jump
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21536388847419392
+    m_Key: Challenges
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21536454513442816
+    m_Key: Coming soon
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24186485939384320
+    m_Key: Open
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24199001557970944
+    m_Key: Robot (Game Character)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24199098840657920
+    m_Key: Get original game character
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31299372835008512
+    m_Key: Name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31407324824727552
+    m_Key: Open Tour#1 Results
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31630664042672128
+    m_Key: Speed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31637186307026944
+    m_Key: New Entry
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31640464067522560
+    m_Key: Spike Neutral
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44101391639506944
+    m_Key: Autocombo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 80007104035155968
+    m_Key: Character
+    m_Metadata:
+      m_Items: []
+  - m_Id: 80007851468517376
+    m_Key: Choose
+    m_Metadata:
+      m_Items: []
+  - m_Id: 80007914710233088
+    m_Key: "\u041E\u0442\u043A\u0440\u044B\u0442\u044C"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 80361368372768768
+    m_Key: Click to add you to a wait list and get first demo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 82402546429587456
+    m_Key: Step by Step
+    m_Metadata:
+      m_Items: []
+  - m_Id: 82402832166547456
+    m_Key: Endless runner
+    m_Metadata:
+      m_Items: []
+  - m_Id: 82501065983258624
+    m_Key: Nice Job!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 82501160480927744
+    m_Key: Level Up
+    m_Metadata:
+      m_Items: []
+  - m_Id: 82516973887811584
+    m_Key: Candy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 262284395443007488
+    m_Key: New Game
+    m_Metadata:
+      m_Items: []
+  - m_Id: 262284577589047296
+    m_Key: Next Level
+    m_Metadata:
+      m_Items: []
+  - m_Id: 262300822245879808
+    m_Key: Level
+    m_Metadata:
+      m_Items: []
+  - m_Id: 265924321044738048
+    m_Key: Go!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 267375156786245632
+    m_Key: Start Game
+    m_Metadata:
+      m_Items: []
+  - m_Id: 267380668470800384
+    m_Key: Read More
+    m_Metadata:
+      m_Items: []
+  - m_Id: 267381676764704768
+    m_Key: Download
+    m_Metadata:
+      m_Items: []
+  - m_Id: 268077529875755008
+    m_Key: Closed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 270625134003208192
+    m_Key: Skip Level
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 0
+  references:
+    version: 2
+    RefIds:
+    - rid: 0
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1629951992432

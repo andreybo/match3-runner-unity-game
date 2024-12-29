@@ -1,0 +1,26 @@
+{
+	"AchievementIDs":[],
+	"LeaderboardIDs":[
+		{
+			"InternalID":"highScore",
+			"AppleID":"com.twoj.yolkrunner3d.leaderboard",
+			"GoogleID":"CggIvsbG7jcQAhAA"
+		}
+	],
+	"CloudVariables":[
+		{
+			"Key":"highScore",
+			"Type":"0",
+			"DefaultValue":"0",
+			"PersistenceType":"1",
+			"AllowNegative":false
+		}
+	],
+	"AppleSupported":true,
+	"GoogleSupported":true,
+	"GoogleAppID":"4973844208495819379",
+	"GoogleSetupRun":true,
+	"DebugModeEnabled":false,
+	"Version":"2.7.5",
+	"SettingsLocation":"0"
+}

@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Hero
+  - Adds
+  - Apple
+  - bill
+  - crystal
+  - Size
+  - Ship
+  - Battery
+  - timer
+  - ColorCombo
+  - Bomb
+  - Ice
+  - FxTemporaire
+  - crystal_parent
+  - pricel
+  - Cube
+  - Break
+  - nocompare
+  - Bowling
+  - startJump
+  - Wall
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Additional
+  - Water
+  - UI
+  - NoCollision
+  - Glow
+  - Bomb
+  - Combo
+  - Magnet
+  - Pricel
+  - Navigation
+  - Cube
+  - Hero
+  - Robo
+  - Break
+  - Lose
+  - Protect
+  - Wall
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

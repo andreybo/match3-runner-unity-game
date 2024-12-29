@@ -1,0 +1,28 @@
+Thank you for buying my Swipe Controller Script.
+
+Try out the 2 demo scenes in _Scenes folder.
+When you want to use the script in your own project then just add the SwipeController to an GameObject and add directive using MOSoft.SwipeController;
+You don't need to add it to the player!
+After that you can check with the following methods what type of swipe direction is occurred
+For example: 
+SwipeController.getInstance.isUp() or SwipeController.getInstance.isTap() and so on...
+
+If you have any questions or problems just contact me under the following 
+email adress: most2k2@gmail.com
+
+Find me at Facebook: https://www.facebook.com/LedBlinker
+Find me at Google+ https://plus.google.com/u/0/+MarioOstwald
+
+Regards,
+
+Mario Ostwald
+___
+
+Changes:
+1.3.0:	- Support for Playmaker added (Check demo folder)
+		- Added namespace to all scripts; add using MOSoft.SwipeController directive
+		- New Tanks Demo Scene added
+
+1.2.0:  - Added continuous moving and scripts improvements (removed static methods, check getInstance method in SwipeController)
+
+1.0.0:  - Initial release

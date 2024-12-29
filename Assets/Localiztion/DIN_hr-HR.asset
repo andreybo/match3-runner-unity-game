@@ -1,0 +1,324 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: DIN_hr-HR
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: hr-HR
+  m_SharedData: {fileID: 11400000, guid: 69daa94877ad0a243959a8dcea82e8bf, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 66446553088
+    m_Localized: Igra
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5243643752448
+    m_Localized: Najbolji Rezultat
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5456777310208
+    m_Localized: Nastaviti
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5675153747968
+    m_Localized: 'Izlaz '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5990796095488
+    m_Localized: Ponovno Pokrenuti
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6111256506368
+    m_Localized: Tvoj Rezultat
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6280656056320
+    m_Localized: Makni Reklame
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6699302121472
+    m_Localized: Vibracija
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7989621026816
+    m_Localized: Zvuk
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12358894612480
+    m_Localized: Test
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1928161540550656
+    m_Localized: Dodirnite Za Pomicanje Lijevo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1928682653462528
+    m_Localized: Dodirnite Za Pomicanje Udesno
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2061689257021440
+    m_Localized: "Pre\u0111ite Prstom Prema Dolje Da Napravite Kombinaciju"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2070440231915520
+    m_Localized: "Poku\u0161ajte Prebaciti Prstom Ulijevo/Udesno Za Dugo Se Kre\u0107u"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2070713792811008
+    m_Localized: 'Pravila:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2070764803936256
+    m_Localized: Zdravlje +1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2071778277806080
+    m_Localized: Promijenite Boju
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2072083954487296
+    m_Localized: Bezbojan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2072221225668608
+    m_Localized: "Oduzima \u017Divot"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2072358958223360
+    m_Localized: Vrijeme
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2072563325685760
+    m_Localized: Eksplodira Blokove
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2072721782296576
+    m_Localized: Kap Boje
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2075683694923776
+    m_Localized: Promijenite Boju Dina
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3646375032139776
+    m_Localized: Sloba Brzina
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4596936447934464
+    m_Localized: Vrati Kupnja
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6076718780469248
+    m_Localized: "Uni\u0161titi Blokove Iste Boje Kao I Din I Posti\u0107i \u0160to
+      Vi\u0161e Bodova"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6573495991791616
+    m_Localized: "Po\u0161alji Povratne Informacije"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6791873830449152
+    m_Localized: "U\u017Eivajte U Igri Bez Video Oglasa"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6791965593432064
+    m_Localized: Uklonite Oglas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10992588826578944
+    m_Localized: Zdravlje -1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10993056747327488
+    m_Localized: ' +30 Sekundi'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11017009276620800
+    m_Localized: Kombinacija!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15074895160643584
+    m_Localized: Unesite Tekst ...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15075104934563840
+    m_Localized: "Kako Se Zove\u0161?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15075387009896448
+    m_Localized: "U\u0161tedjeti"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15076744953565184
+    m_Localized: "Plo\u010Da"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16153803732938752
+    m_Localized: "\u0160to Je Novo?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16153901770600448
+    m_Localized: Shvatio!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16154408123756544
+    m_Localized: Velika Brzina
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16160561524240384
+    m_Localized: "\u0160to Je Novo: - Igrajte Besplatno!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17652141678522368
+    m_Localized: "U\u010Ditavam"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18001279381442560
+    m_Localized: Dodirnite Lijevo/Desno
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18001405437054976
+    m_Localized: Priglovite Revo/Desno
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18001543450628096
+    m_Localized: Povucite Prema Dolje
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18001599893377024
+    m_Localized: Pomaknite Se Prema Gore
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18001911752462336
+    m_Localized: Skok
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21536388847419392
+    m_Localized: Izazovi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21536454513442816
+    m_Localized: Dolazi Uskoro
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24186485939384320
+    m_Localized: Otvoren
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24199001557970944
+    m_Localized: Robot (Lik Igre)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24199098840657920
+    m_Localized: Nabavite Originalni Lik Igre
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31299372835008512
+    m_Localized: Ime
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31407324824727552
+    m_Localized: Otvorena Turneja#1 Rezultati
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31630664042672128
+    m_Localized: Ubrzati
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31637186307026944
+    m_Localized: Novi Unos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31640464067522560
+    m_Localized: "\u0160iljak Neutralan"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44101391639506944
+    m_Localized: Autokombo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 80007104035155968
+    m_Localized: Lik
+    m_Metadata:
+      m_Items: []
+  - m_Id: 80007851468517376
+    m_Localized: Odabrati
+    m_Metadata:
+      m_Items: []
+  - m_Id: 80007914710233088
+    m_Localized: Narednik
+    m_Metadata:
+      m_Items: []
+  - m_Id: 80361368372768768
+    m_Localized: "Kliknite Da Biste Dodali Na Listu \u010Cekanja I Dobili Prvi Demo"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 82402546429587456
+    m_Localized: Korak Po Korak
+    m_Metadata:
+      m_Items: []
+  - m_Id: 82402832166547456
+    m_Localized: "Beskrajni Trka\u010D"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 82501065983258624
+    m_Localized: Dobar Posao!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 82501160480927744
+    m_Localized: "Vi\u0161a Razina"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 82516973887811584
+    m_Localized: Bombon
+    m_Metadata:
+      m_Items: []
+  - m_Id: 262284395443007488
+    m_Localized: Nova Igra
+    m_Metadata:
+      m_Items: []
+  - m_Id: 262284577589047296
+    m_Localized: "Sljede\u0107a Razina"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 262300822245879808
+    m_Localized: Nivo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 265924321044738048
+    m_Localized: "I\u0107i!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 267375156786245632
+    m_Localized: "Po\u010Detak Igre"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 267380668470800384
+    m_Localized: "\u010Citaj Vi\u0161e"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 267381676764704768
+    m_Localized: Preuzimanje Datoteka
+    m_Metadata:
+      m_Items: []
+  - m_Id: 268077529875755008
+    m_Localized: Zatvoreno
+    m_Metadata:
+      m_Items: []
+  - m_Id: 270625134003208192
+    m_Localized: "Presko\u010Diti Razinu"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

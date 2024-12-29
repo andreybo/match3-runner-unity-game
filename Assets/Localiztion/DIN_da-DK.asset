@@ -1,0 +1,324 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: DIN_da-DK
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: da-DK
+  m_SharedData: {fileID: 11400000, guid: 69daa94877ad0a243959a8dcea82e8bf, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 66446553088
+    m_Localized: Spil
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5243643752448
+    m_Localized: Bedste Score
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5456777310208
+    m_Localized: Blive Ved
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5675153747968
+    m_Localized: Afslut
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5990796095488
+    m_Localized: Genstart
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6111256506368
+    m_Localized: Din Score
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6280656056320
+    m_Localized: Fjern Annoncer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6699302121472
+    m_Localized: Vibrationer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7989621026816
+    m_Localized: Lyd
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12358894612480
+    m_Localized: "Pr\xF8ve"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1928161540550656
+    m_Localized: "R\xF8r Ved At Flytte Til Venstre"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1928682653462528
+    m_Localized: "R\xF8r Ved At Flytte Til H\xF8jre"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2061689257021440
+    m_Localized: Stryg Ned For At Lave Combo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2070440231915520
+    m_Localized: "Pr\xF8v At Skubbe Til Venstre/H\xF8jre For Lang Bev\xE6gelse"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2070713792811008
+    m_Localized: 'Regler:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2070764803936256
+    m_Localized: Sundhed +1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2071778277806080
+    m_Localized: Skift Farve
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2072083954487296
+    m_Localized: "Farvel\xF8s"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2072221225668608
+    m_Localized: Tager Livet
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2072358958223360
+    m_Localized: Tid
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2072563325685760
+    m_Localized: Eksploderer Blokke
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2072721782296576
+    m_Localized: "Dr\xE5be Maling"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2075683694923776
+    m_Localized: Skift Din Farve
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3646375032139776
+    m_Localized: Langsom Hastighed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4596936447934464
+    m_Localized: "Gendan K\xF8b"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6076718780469248
+    m_Localized: "\xD8del\xE6gge Blokke Af Samme Farve Som Din Og Score S\xE5 Mange
+      Punkter Som Muligt"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6573495991791616
+    m_Localized: Send Feedback
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6791873830449152
+    m_Localized: Nyd Spillet Uden Videoannonce
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6791965593432064
+    m_Localized: Fjern Annonce
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10992588826578944
+    m_Localized: Sundhed -1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10993056747327488
+    m_Localized: ' +30 Sekunder'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11017009276620800
+    m_Localized: Combo!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15074895160643584
+    m_Localized: Indtast Tekst ...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15075104934563840
+    m_Localized: Hvad Hedder Du?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15075387009896448
+    m_Localized: Gemme
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15076744953565184
+    m_Localized: Leaderboard
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16153803732938752
+    m_Localized: Hvad Er Nyt?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16153901770600448
+    m_Localized: "Forst\xE5et!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16154408123756544
+    m_Localized: "H\xF8j Hastighed"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16160561524240384
+    m_Localized: 'Hvad Er Nyt: - Spil Gratis!'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17652141678522368
+    m_Localized: "Indl\xE6ser"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18001279381442560
+    m_Localized: "Tryk P\xE5 Venstre/H\xF8jre"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18001405437054976
+    m_Localized: "Stryg Til Venstre/H\xF8jre"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18001543450628096
+    m_Localized: Stryg Ned
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18001599893377024
+    m_Localized: Stryg Op
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18001911752462336
+    m_Localized: Hoppe
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21536388847419392
+    m_Localized: Udfordringer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21536454513442816
+    m_Localized: Kommer Snart
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24186485939384320
+    m_Localized: "\xC5ben"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24199001557970944
+    m_Localized: Robot (Spilkarakter)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24199098840657920
+    m_Localized: "F\xE5 Original Spilkarakter"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31299372835008512
+    m_Localized: Navn
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31407324824727552
+    m_Localized: "\xC5ben Turn\xE9 Nr. 1 Resultater"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31630664042672128
+    m_Localized: Fart
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31637186307026944
+    m_Localized: Ny Indgang
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31640464067522560
+    m_Localized: Spike Neutral
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44101391639506944
+    m_Localized: Autocombo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 80007104035155968
+    m_Localized: Karakter
+    m_Metadata:
+      m_Items: []
+  - m_Id: 80007851468517376
+    m_Localized: "V\xE6lge"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 80007914710233088
+    m_Localized: "\u041E\u0442\u043A\u0440\u044B\u0442\u044C"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 80361368372768768
+    m_Localized: "Klik For At F\xF8je Dig Til En Venteliste Og F\xE5 F\xF8rste Demo"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 82402546429587456
+    m_Localized: Trin For Trin
+    m_Metadata:
+      m_Items: []
+  - m_Id: 82402832166547456
+    m_Localized: "Uendelig L\xF8ber"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 82501065983258624
+    m_Localized: Godt Job!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 82501160480927744
+    m_Localized: Niveau Op
+    m_Metadata:
+      m_Items: []
+  - m_Id: 82516973887811584
+    m_Localized: Slik
+    m_Metadata:
+      m_Items: []
+  - m_Id: 262284395443007488
+    m_Localized: Nyt Spil
+    m_Metadata:
+      m_Items: []
+  - m_Id: 262284577589047296
+    m_Localized: "N\xE6ste Niveau"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 262300822245879808
+    m_Localized: Niveau
+    m_Metadata:
+      m_Items: []
+  - m_Id: 265924321044738048
+    m_Localized: "G\xE5!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 267375156786245632
+    m_Localized: Start Spil
+    m_Metadata:
+      m_Items: []
+  - m_Id: 267380668470800384
+    m_Localized: "L\xE6s Mere"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 267381676764704768
+    m_Localized: Hent
+    m_Metadata:
+      m_Items: []
+  - m_Id: 268077529875755008
+    m_Localized: Lukket
+    m_Metadata:
+      m_Items: []
+  - m_Id: 270625134003208192
+    m_Localized: Spring Over Niveau
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []
