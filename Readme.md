@@ -1,4 +1,4 @@
-# Yolker Run 3D
+# Match3 Runner Unity Game: Yolker Run 3D
 
 ![Yolker Run 3D Screenshot](./screenshot.png)
 
@@ -36,7 +36,7 @@ This repository contains the public build of **Yolker Run 3D** created in Unity.
    ```bash
    git clone https://github.com/yourusername/yolker-run-3d.git
    ```
-2. Open the project in Unity (version X.Y.Z or higher).
+2. Open the project in Unity.
 3. Build and run the game on your preferred platform.
 
 ## License
